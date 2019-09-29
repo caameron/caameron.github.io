@@ -1,5 +1,4 @@
 import React from 'react'
-import { Link } from "gatsby"
 import Navbar from "../components/navbar"
 import Header from "../components/header"
 import ContentNav from "../components/ContentNav"
